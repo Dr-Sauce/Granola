@@ -10,8 +10,8 @@ Totally not an extension for Grammarly
 
 |  | Instruction |
 |---|---|
-| **Chrome** <br>Arc, Brave, Edge.. | 1. Go to the [releases](https://github.com/Dr-Sauce/Granola/releases/latest) page.  <br>2. Download **Granola_Chrome.zip**.  <br>3. Unzip file.  <br>4. Open Chrome. Go to ```chrome://extensions```.   <br>5. Enable **Developer mode**, press **Load unpacked**.  Select the unzipped folder. |
-| **Firefox** <br>Zen.. | 1. Go to the [releases](https://github.com/Dr-Sauce/Granola/releases/latest) page.  <br>2. Download **Granola_Firefox.xpi**.  <br>3. Open Firefox. Go to ```about:addons```. Press **Settings** → **Install Add-on From File...**  <br>4. Select the xpi file. |
+| **Chrome** <br>Arc, Brave, Edge.. | 1. Download file by pressing [here](https://github.com/Dr-Sauce/Granola/releases/latest/download/Granola_Chrome.zip) and unzip it.  <br>2. Go to ```Chrome://extensions``` in Chrome.<br>3. Enable **Developer mode** → **Load unpacked**.  Select the unzipped folder. |
+| **Firefox** <br>Zen.. | 1. Click [here](https://github.com/Dr-Sauce/Granola/releases/latest/download/Granola_Firefox.xpi).<br>2. Press **Add**.
 | **iOS** | Unsupported. (Doesn't work with Safari or Orion Browser) |
 | **Android** | Use the Chrome method with Quetta or use the Firefox method with Firefox. |
 

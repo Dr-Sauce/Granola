@@ -13,8 +13,3 @@ Totally not an extension for Grammarly.
 |---|---|
 | **Chrome** <br>Arc, Brave, Edge.. | 1. Download file by pressing [here](https://github.com/Dr-Sauce/Granola/releases/latest/download/Granola_Chrome.zip) and unzip it.  <br>2. Go to ```Chrome://extensions``` in Chrome.<br>3. Enable **Developer mode** → **Load unpacked**.  Select the unzipped folder. |
 | **Firefox** <br>Zen.. | 1. Click [here](https://github.com/Dr-Sauce/Granola/releases/latest/download/Granola_Firefox.xpi).<br>2. Press **Add**.
-
-# Credits
-**Perplexity -** Developer, UI designer
-
-**ChatGPT -** Icon designer

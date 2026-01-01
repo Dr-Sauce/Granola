@@ -1,7 +1,7 @@
 # Granola
 Totally not an extension for Grammarly.
 
-**Update:** Starting on June 27(±) 2025, Grammarly has started to randomise texts, which makes unblurring text useless, marking an end to Granola.
+~~**Update:** Starting on June 27(±) 2025, Grammarly has started to randomise texts, which makes unblurring text useless, marking an end to Granola.~~
 
 
 ![0001](https://github.com/user-attachments/assets/bba19b34-90e2-4ebc-ae21-746c943e755e)
